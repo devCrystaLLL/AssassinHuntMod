@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me._crystal.assassinhunt.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "AssassinHuntMod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
